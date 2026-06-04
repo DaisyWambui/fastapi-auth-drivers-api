@@ -148,7 +148,6 @@ Authorization: Bearer <your_token>
 
 ## Future Improvements
 
-* Add update & delete driver endpoints
 * Add pagination
 * Add role-based access control (admin/user)
 * Dockerize the application
@@ -157,6 +156,4 @@ Authorization: Bearer <your_token>
 
 ---
 
-## Author
 
-Built by a Data Engineering enthusiast transitioning into backend development 
